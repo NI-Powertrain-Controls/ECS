@@ -1,0 +1,118 @@
+	"Convention for CalPoint names:  Meaningful descriptions to someone not familiar with the code are written in CamelCase; that is, only the first letter of a word is capitalized with no spaces in between words. Acronyms have all characters capitalized but abbreviations do not, e.g., Adv for Advance and CAC for Charge Air Cooler.  The description is followed by an underscore and variable modifier; if two modifiers are required, they are written in CamelCase in the most meaningful order.  RT variable names must convey the same language but may be expanded and written with spaces with units written in brackets and qualifiers in parentheses, e.g., [kPa], (optional), etc.  In the case where two capitals are adjacent but part of different words or acronyms, no spaces, underscores, or hyphens are used."
+	"Calpoint Examples:  RailP_Tbl, RailP_TblOut, IMEP_Des, SparkAdv_ManE, FQVDurAngle_PIDMax"
+	"Note: If a modifier isn't needed, it is not required.  Examples of this are: A) a primary output/value, B) a sensor-read value, or C) only mentioned once"
+	Note: FaultPoints have no modifiers but follow the same variable convention
+	
+Variable Modifier	Definition
+Calc	Calculated value (alternative to manual value)
+FiltBreak	Filter break frequency
+Des	desired 'final' output
+E	Enable (boolean text should read ON/OFF)
+Fault	Fault
+FF	Feed forward
+Filt	Filter
+Init	Initialize
+Kp	PID proportional constant
+Man	Manual value
+Max	Maximum value
+Min	Minimum value
+PIDMax	Maximum PID output value
+PIDMin	Minimum PID output value
+PIDOut	PID controller output
+Raw	Raw signal
+Sim	Simulated value
+Tbl	1D or 2D lookup table
+TblOut	1D or 2D lookup table output
+Td	PID derivative constant
+Ti	PID integral constant
+	
+Commonly used Acronyms / Abbreviations	
+Adv	"advance (Note:  All timings will be referred to as Adv or Ret; absolute units are DBTDC (Adv) or DATDC (Ret), relative units are CAD)"
+Batt	battery
+BPV	bypass valve
+CAC	charge air cooler
+Ch	channel
+Cyc	cycle
+Cyl	Cylinder
+DC	duty cycle
+Dec	decrease
+DI	direct injector
+Diff	differential
+Dur	duration
+ECT	engine coolant temperature
+EGR	exhaust gas recirculation
+Exh	Exhaust
+FQV	fuel quantity valve
+Freq	frequeny
+HPCR	high pressure common rail
+IMEP	Indicated mean effective pressure
+Inc	Increase
+Init	Initialize
+Inj	Injection
+LS	lowside
+MAF	mass air flow
+Mani	manifold
+MAP	intake manifold absolute pressure
+MPCR	medium pressure common rail
+MAT	intake manifold air temperature
+NxtCyc	Next-Cycle
+Neg	negative
+Nom	nominal
+P	pressure
+PFI	port fuel injector
+Pos	position
+Posi	positive
+PSU	power supply unit
+Qty	quantity
+Ret	retard
+RH	relative humidity
+Sp	Setpoint (distinguishes a control value from a reading value)
+SOI	start of injection
+T	temperature
+Thresh	threshold
+V	voltage
+VE	volumetric efficiency
+VGT	variable geometry turbocharger
+Wg	wastegate
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

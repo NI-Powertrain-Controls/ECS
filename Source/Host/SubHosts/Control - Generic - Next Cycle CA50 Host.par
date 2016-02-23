@@ -1,0 +1,19 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	NextCycle	CA50	CA50
+Control	NextCycle	CA50_Kp	CA50_Kp
+Control	NextCycle	CA50_PIDMax	CA50_PIDMax
+Control	NextCycle	CA50_PIDMin	CA50_PIDMin
+Control	NextCycle	CA50_Td	CA50_Td
+Control	NextCycle	CA50_Ti	CA50_Ti
+Control	NextCycle	CA50ControlOutput	CA50ControlOutput
+Control	NextCycle	CA50ControlOutputValid	CA50ControlOutputValid
+Control	NextCycle	CA50PIDTimeout	CA50PIDTimeout
+Control	NextCycle	CA50Stp_Des	CA50Stp_Des
+Control	NextCycle	CA50Stp_Man	CA50Stp_Man
+Control	NextCycle	CA50Stp_ManE	CA50Stp_ManE
+Control	NextCycle	CA50Stp_Tbl	CA50Stp_Tbl
+Control	NextCycle	FeedbackControlEnable	FeedbackControlEnable
+Control	NextCycle	MaxReadyAngle	MaxReadyAngle
+Control	NextCycle	ReadyAngle	ReadyAngle

@@ -1,0 +1,23 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	LowIdleGov	IdleSpeed_Man	IdleSpeed_Man
+Control	LowIdleGov	IdleSpeed_ManE	IdleSpeed_ManE
+Control	LowIdleGov	IdleSpeed_Tbl	IdleSpeed_Tbl
+Control	LowIdleGov	IdleSpeed_TblOut	IdleSpeed_TblOut
+Control	LowIdleGov	LIG_DEffort	LIG_DEffort
+Control	LowIdleGov	LIG_DerMax	LIG_DerMax
+Control	LowIdleGov	LIG_DerMin	LIG_DerMin
+Control	LowIdleGov	LIG_E	LIG_E
+Control	LowIdleGov	LIG_IEffort	LIG_IEffort
+Control	LowIdleGov	LIG_IntMax	LIG_IntMax
+Control	LowIdleGov	LIG_IntMin	LIG_IntMin
+Control	LowIdleGov	LIG_Kd	LIG_Kd
+Control	LowIdleGov	LIG_Ki	LIG_Ki
+Control	LowIdleGov	LIG_Kp	LIG_Kp
+Control	LowIdleGov	LIG_PEffort	LIG_PEffort
+Control	LowIdleGov	LIG_PIDMax	LIG_PIDMax
+Control	LowIdleGov	LIG_PIDMin	LIG_PIDMin
+Control	LowIdleGov	LIG_PIDOut	LIG_PIDOut
+Control	LowIdleGov	PedalIn	PedalIn
+Control	LowIdleGov	PedalOut	PedalOut

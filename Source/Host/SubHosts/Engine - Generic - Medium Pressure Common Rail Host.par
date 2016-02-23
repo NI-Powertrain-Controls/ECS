@@ -1,0 +1,37 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Engine	MPCR	CamAdv	CamAdv
+Engine	MPCR	FQVCtrl_E	FQVCtrl_E
+Engine	MPCR	FQVDur_Des	FQVDur_Des
+Engine	MPCR	FQVDur_Man	FQVDur_Man
+Engine	MPCR	FQVDur_ManE	FQVDur_ManE
+Engine	MPCR	FQVDur_Max	FQVDur_Max
+Engine	MPCR	FQVDur_Min	FQVDur_Min
+Engine	MPCR	FQVDurAngle_Calc	FQVDurAngle_Calc
+Engine	MPCR	FQVDurAngle_FFTbl	FQVDurAngle_FFTbl
+Engine	MPCR	FQVDurAngle_FFTblOut	FQVDurAngle_FFTblOut
+Engine	MPCR	FQVDurAngle_KpOut	FQVDurAngle_KpOut
+Engine	MPCR	FQVDurAngle_Man	FQVDurAngle_Man
+Engine	MPCR	FQVDurAngle_ManE	FQVDurAngle_ManE
+Engine	MPCR	FQVDurAngle_Max	FQVDurAngle_Max
+Engine	MPCR	FQVDurAngle_Min	FQVDurAngle_Min
+Engine	MPCR	FQVDurAngle_NonPIDFFTbl	FQVDurAngle_NonPIDFFTbl
+Engine	MPCR	FQVDurAngle_PIDActive	FQVDurAngle_PIDActive
+Engine	MPCR	FQVDurAngle_PIDE	FQVDurAngle_PIDE
+Engine	MPCR	FQVDurAngle_PIDMax	FQVDurAngle_PIDMax
+Engine	MPCR	FQVDurAngle_PIDMin	FQVDurAngle_PIDMin
+Engine	MPCR	FQVDurAngle_PIDOut	FQVDurAngle_PIDOut
+Engine	MPCR	FQVDurAngle_Td	FQVDurAngle_Td
+Engine	MPCR	FQVDurAngle_TdOut	FQVDurAngle_TdOut
+Engine	MPCR	FQVDurAngle_Ti	FQVDurAngle_Ti
+Engine	MPCR	FQVDurAngle_TiOut	FQVDurAngle_TiOut
+Engine	MPCR	FQVEndTiming	FQVEndTiming
+Engine	MPCR	FQVStartTiming_Des	FQVStartTiming_Des
+Engine	MPCR	FQVWindowEnd	FQVWindowEnd
+Engine	MPCR	FQVWindowStart	FQVWindowStart
+Engine	MPCR	MPCR_FaultClear	MPCR_FaultClear
+Engine	MPCR	RailP	RailP
+Engine	MPCR	RailP_Fault	RailP_Fault
+Engine	MPCR	RailP_MaxThresh	RailP_MaxThresh
+Engine	MPCR	RailPStp	RailPStp

@@ -1,0 +1,20 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	HighIdleGov	HIG_DEffort	HIG_DEffort
+Control	HighIdleGov	HIG_DerMax	HIG_DerMax
+Control	HighIdleGov	HIG_DerMin	HIG_DerMin
+Control	HighIdleGov	HIG_E	HIG_E
+Control	HighIdleGov	HIG_IEffort	HIG_IEffort
+Control	HighIdleGov	HIG_IntMax	HIG_IntMax
+Control	HighIdleGov	HIG_IntMin	HIG_IntMin
+Control	HighIdleGov	HIG_Kd	HIG_Kd
+Control	HighIdleGov	HIG_Ki	HIG_Ki
+Control	HighIdleGov	HIG_Kp	HIG_Kp
+Control	HighIdleGov	HIG_PEffort	HIG_PEffort
+Control	HighIdleGov	HIG_PIDMax	HIG_PIDMax
+Control	HighIdleGov	HIG_PIDMin	HIG_PIDMin
+Control	HighIdleGov	HIG_PIDOut	HIG_PIDOut
+Control	HighIdleGov	HighIdleSpeed	HighIdleSpeed
+Control	HighIdleGov	PedalIn	PedalIn
+Control	HighIdleGov	PedalOut	PedalOut

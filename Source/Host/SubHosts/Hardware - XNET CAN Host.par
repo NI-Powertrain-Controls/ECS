@@ -1,0 +1,30 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Hardware	XNET-CAN	Baud_Rate	Baud_Rate
+Hardware	XNET-CAN	CalPointIDs	CalPointIDs
+Hardware	XNET-CAN	CAN Clusters	CAN Clusters
+Hardware	XNET-CAN	CAN ECUs	CAN ECUs
+Hardware	XNET-CAN	CAN Interface	CAN Interface
+Hardware	XNET-CAN	CAN Interfaces	CAN Interfaces
+Hardware	XNET-CAN	CAN Rx Signals	CAN Rx Signals
+Hardware	XNET-CAN	CAN Tx Signals	CAN Tx Signals
+Hardware	XNET-CAN	CAN_Run	CAN_Run
+Hardware	XNET-CAN	ControlParamMem	ControlParamMem
+Hardware	XNET-CAN	DatabaseAlias	DatabaseAlias
+Hardware	XNET-CAN	Deployed Clusters	Deployed Clusters
+Hardware	XNET-CAN	Deployed Databases	Deployed Databases
+Hardware	XNET-CAN	Deployed ECUs	Deployed ECUs
+Hardware	XNET-CAN	Intf_CAN_Term	Intf_CAN_Term
+SCMReserved	Reserved	IP_Address	IP_Address
+Hardware	XNET-CAN	XNETLoopDuration	Loop Duration
+Hardware	XNET-CAN	Loop Period	Loop Period
+System	Calpoints	NamesShort	NamesShort
+Hardware	XNET-CAN	Refresh Database	Refresh Database
+Hardware	XNET-CAN	Rx Data	Rx Data
+Hardware	XNET-CAN	Rx Signals	Rx Signals
+Hardware	XNET-CAN	Tx Data	Tx Data
+Hardware	XNET-CAN	Tx Signals	Tx Signals
+Hardware	XNET-CAN	XNET_Fault	XNET_Fault
+Hardware	XNET-CAN	XNET_Fault_Code	XNET_Fault_Code
+Hardware	XNET-CAN	XNET_Fault_Desc	XNET_Fault_Desc

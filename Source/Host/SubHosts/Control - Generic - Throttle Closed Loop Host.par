@@ -1,0 +1,19 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	Throttle	AirFlowPID_Kp	AirFlowPID_Kp
+Control	Throttle	AirFlowPID_PIDE	AirFlowPID_PIDE
+Control	Throttle	AirFlowPID_PIDMax	AirFlowPID_PIDMax
+Control	Throttle	AirFlowPID_PIDMin	AirFlowPID_PIDMin
+Control	Throttle	AirFlowPID_PIDOut	AirFlowPID_PIDOut
+Control	Throttle	AirFlowPID_Td	AirFlowPID_Td
+Control	Throttle	AirFlowPID_Ti	AirFlowPID_Ti
+Control	Throttle	ClosedAngle	ClosedAngle
+Control	Throttle	DischargeCoeff	DischargeCoeff
+Control	Throttle	ThrottleCtrlMode	ThrottleCtrlMode
+Control	Throttle	ThrottleDiameter	ThrottleDiameter
+Control	Throttle	ThrottlePsn_Calc	ThrottlePsn_Calc
+Control	Throttle	ThrottlePsn_Des	ThrottlePsn_Des
+Control	Throttle	ThrottlePsn_FF	ThrottlePsn_FF
+Control	Throttle	ThrottlePsn_Man	ThrottlePsn_Man
+Control	Throttle	ThrottlePsn_ManE	ThrottlePsn_ManE

@@ -1,0 +1,11 @@
+Drivven Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	TurboBPV	DiffP	DiffP
+Control	TurboBPV	DiffP_Thresh	DiffP_Thresh
+Control	TurboBPV	OffPsn	OffPsn
+Control	TurboBPV	OnPsn	OnPsn
+Control	TurboBPV	TurboBPVPsn_Calc	TurboBPVPsn_Calc
+Control	TurboBPV	TurboBPVPsn_Des	TurboBPVPsn_Des
+Control	TurboBPV	TurboBPVPsn_Man	TurboBPVPsn_Man
+Control	TurboBPV	TurboBPVPsn_ManE	TurboBPVPsn_ManE

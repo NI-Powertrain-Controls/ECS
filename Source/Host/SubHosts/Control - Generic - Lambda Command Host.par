@@ -1,0 +1,11 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	LambdaCmd	Lambda_Des	Lambda_Des
+Control	LambdaCmd	Lambda_Man	Lambda_Man
+Control	LambdaCmd	Lambda_ManE	Lambda_ManE
+Control	LambdaCmd	Lambda_Tbl	Lambda_Tbl
+Control	LambdaCmd	Lambda_TblOut	Lambda_TblOut
+Control	LambdaCmd	OscillationMode	OscillationMode
+Control	LambdaCmd	WvfrmAmp	WvfrmAmp
+Control	LambdaCmd	WvfrmFreq	WvfrmFreq

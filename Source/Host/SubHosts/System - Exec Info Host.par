@@ -1,0 +1,25 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+SCMReserved	Reserved	CalFile_Name	CalFile_Name
+System	Exec	Control_Duration	Control_Duration
+System	Exec	CPU_Load	CPU_Load
+System	Exec	CPU_Load_TimeCrit	CPU_Load_TimeCrit
+System	Faults	FPGA_1_Error	FPGA_1_Error
+System	Faults	FPGA_2_Error	FPGA_2_Error
+SCMReserved	Reserved	IP_Address	IP_Address
+System	Exec	Largest_Contiguous_Mem	Largest_Contiguous_Mem
+System	Exec	MainLoopDuration	MainLoopDuration
+System	Exec	MainLoopPeriod	MainLoopPeriod
+System	Exec	MainLoopPeriod_Set	MainLoopPeriod_Set
+System	Exec	Memory_Used	Memory_Used
+System	Exec	Read_Inputs_Duration	Read_Inputs_Duration
+SCMReserved	Reserved	SCM_Build	SCM_Build
+System	Exec	SCMInitOK	SCMInitOK
+System	Exec	SlowSpeedLoopPeriod_Set	SlowSpeedLoopPeriod_Set
+System	Exec	Storage_Space	Storage_Space
+System	Exec	Storage_Space_Free	Storage_Space_Free
+System	Exec	Storage_Space_Used	Storage_Space_Used
+SCMReserved	Reserved	Target_Name	Target_Name
+System	Exec	Total_Mem	Total_Mem
+System	Exec	Write_Outputs_Duration	Write_Outputs_Duration

@@ -1,0 +1,33 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	Crank	Crank_E	Crank_E
+Control	Crank	CrankModeActive	CrankModeActive
+Hardware	EPTx	EngineStatus	EngineStatus
+Control	Crank	ForceCrank_E	ForceCrank_E
+Control	Crank	HighPEGRPsn_Crank	HighPEGRPsn_Crank
+Control	Crank	InjQty_Calc	InjQty_Calc
+Control	Crank	InjQty_Man	InjQty_Man
+Control	Crank	InjQty_ManE	InjQty_ManE
+Control	Crank	InjQty_Tbl	InjQty_Tbl
+Control	Crank	InjQty_TblOut	InjQty_TblOut
+Control	Crank	InjTiming_Man	InjTiming_Man
+Control	Crank	InjTiming_ManE	InjTiming_ManE
+Control	Crank	InjTiming_Tbl	InjTiming_Tbl
+Control	Crank	InjTiming_TblOut	InjTiming_TblOut
+Control	Crank	LowPEGRPsn_Crank	LowPEGRPsn_Crank
+Control	Crank	Phi_Max	Phi_Max
+Control	Crank	RailP_Man	RailP_Man
+Control	Crank	RailP_ManE	RailP_ManE
+Control	Crank	RailP_Tbl	RailP_Tbl
+Control	Crank	RailP_TblOut	RailP_TblOut
+Control	Crank	VGTPsn_Crank	VGTPsn_Crank
+Control	Crank	VVTCam1Adv_Man	VVTCam1Adv_Man
+Control	Crank	VVTCam1Adv_ManE	VVTCam1Adv_ManE
+Control	Crank	VVTCam1Adv_Tbl	VVTCam1Adv_Tbl
+Control	Crank	VVTCam1Adv_TblOut	VVTCam1Adv_TblOut
+Control	Crank	VVTCam2Adv_Man	VVTCam2Adv_Man
+Control	Crank	VVTCam2Adv_ManE	VVTCam2Adv_ManE
+Control	Crank	VVTCam2Adv_Tbl	VVTCam2Adv_Tbl
+Control	Crank	VVTCam2Adv_TblOut	VVTCam2Adv_TblOut
+Control	Crank	WgPsn_Crank	WgPsn_Crank

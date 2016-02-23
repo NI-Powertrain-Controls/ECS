@@ -1,0 +1,12 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Hardware	VRHall-1	DC	DC
+Hardware	VRHall-1	DigitalFilt	DigitalFilt
+Hardware	VRHall-1	DigitalInputBooleanArray	DigitalInputBooleanArray
+Hardware	VRHall-1	DigitalInvertConfig	DigitalInvertConfig
+Hardware	VRHall-1	FPGAReadError	FPGAReadError
+Hardware	VRHall-1	FPGAWriteError	FPGAWriteError
+Hardware	VRHall-1	Freq	Freq
+Hardware	VRHall-1	PulseWidth	PulseWidth
+Hardware	VRHall-1	SignalConfig	SignalConfig

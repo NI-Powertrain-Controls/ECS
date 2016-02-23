@@ -1,0 +1,11 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	SmokeLimit	FuelLimit_Calc	FuelLimit_Calc
+Control	SmokeLimit	SmokeLimit_E	SmokeLimit_E
+Control	SmokeLimit	SmokeLimitActive	SmokeLimitActive
+Control	SmokeLimit	SmokeLimitFuel_Tbl	SmokeLimitFuel_Tbl
+Control	SmokeLimit	SmokeLimitFuel_TblOut	SmokeLimitFuel_TblOut
+Control	SmokeLimit	SmokeLimitMode	SmokeLimitMode
+Control	SmokeLimit	SmokeLimitPhi_Tbl	SmokeLimitPhi_Tbl
+Control	SmokeLimit	SmokeLimitPhi_TblOut	SmokeLimitPhi_TblOut

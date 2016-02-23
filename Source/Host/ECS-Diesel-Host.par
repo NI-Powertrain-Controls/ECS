@@ -1,0 +1,38 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Engine	Faults	12VPSU_CriticalFault	12VPSU_CriticalFault
+Engine	Faults	5VPSU_CriticalFault	5VPSU_CriticalFault
+Engine	Faults	BattV_CriticalFault	BattV_CriticalFault
+System	UI	CalpointData	CalPointData
+System	UI	CalpointIDs	CalPointIDs
+System	Faults	Critical Fault	Critical Fault
+System	Runtime	Engine Time	Engine Time
+System	Runtime	Engine Time Reset	Engine Time Reset
+Engine	Faults	EngineSpeed_MaxCrit	EngineSpeed_MaxCrit
+Engine	Faults	EngineSpeed_MaxNC	EngineSpeed_MaxNC
+Hardware	EPTx	EngineSpeedFPGA1	EngineSpeedFPGA1
+Hardware	EPTx	EngineStatus	EngineStatus
+Hardware	Power	ESTOP	ESTOP
+Hardware	EPTx	ForceSafeState	ForceSafeState
+Control	IntakeAirDes	MAP_Des	MAP_Des
+Control	IntakeAirDes	MAP_Man	MAP_Man
+Control	IntakeAirDes	MAP_ManE	MAP_ManE
+System	Calpoints	NamesLong	NamesLong
+System	Faults	Non-Critical Fault	Non-Critical Fault
+Control	LoadCmd	Pedal_Des	Pedal_Des
+Control	LoadCmd	Pedal_Man	Pedal_Man
+Control	LoadCmd	Pedal_ManE	Pedal_ManE
+Hardware	Power	PowerEnable	PowerEnable
+Control	RailP	RailP_Des	RailP_Des
+Control	RailP	RailP_Man	RailP_Man
+Control	RailP	RailP_ManE	RailP_ManE
+Hardware	EPTx	ReceivingPrimaryFPGA1	ReceivingPrimaryFPGA1
+System	UI	SliderMax	SliderMax
+System	UI	SliderMin	SliderMin
+System	UI	SliderSelection	SliderSelection
+System	UI	Software Version	Software Version
+Hardware	EPTx	SyncEnable	SyncEnable
+Hardware	EPTx	SyncFPGA1	SyncFPGA1
+System	Runtime	Time Since Start	Time Since Start
+System	UI	Units	Units

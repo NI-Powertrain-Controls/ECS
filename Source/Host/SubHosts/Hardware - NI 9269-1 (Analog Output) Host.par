@@ -1,0 +1,16 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Hardware	NI9269-1	Ch0_Req	Ch0_Req
+Hardware	NI9269-1	Ch0_Tbl	Ch0_Tbl
+Hardware	NI9269-1	Ch0_TblOut	Ch0_TblOut
+Hardware	NI9269-1	Ch1_Req	Ch1_Req
+Hardware	NI9269-1	Ch1_Tbl	Ch1_Tbl
+Hardware	NI9269-1	Ch1_TblOut	Ch1_TblOut
+Hardware	NI9269-1	Ch2_Req	Ch2_Req
+Hardware	NI9269-1	Ch2_Tbl	Ch2_Tbl
+Hardware	NI9269-1	Ch2_TblOut	Ch2_TblOut
+Hardware	NI9269-1	Ch3_Req	Ch3_Req
+Hardware	NI9269-1	Ch3_Tbl	Ch3_Tbl
+Hardware	NI9269-1	Ch3_TblOut	Ch3_TblOut
+Hardware	NI9269-1	FPGAWriteError	FPGAWriteError

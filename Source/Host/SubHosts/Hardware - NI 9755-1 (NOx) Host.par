@@ -1,0 +1,33 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Hardware	NOx-1	CAN0_Restart	CAN0_Restart
+Hardware	NOx-1	FPGAInterfaceError	FPGAInterfaceError
+Hardware	NOx-1	RxIDActual	RxIDActual
+Hardware	NOx-1	Sensor1_E	Sensor1_E
+Hardware	NOx-1	Sensor1HeaterCircuitStatus	Sensor1HeaterCircuitStatus
+Hardware	NOx-1	Sensor1HeaterModeStatus	Sensor1HeaterModeStatus
+Hardware	NOx-1	Sensor1NOx	Sensor1NOx
+Hardware	NOx-1	Sensor1NOxCircuitStatus	Sensor1NOxCircuitStatus
+Hardware	NOx-1	Sensor1NOxSignalStatus	Sensor1NOxSignalStatus
+Hardware	NOx-1	Sensor1O2	Sensor1O2
+Hardware	NOx-1	Sensor1O2CircuitStatus	Sensor1O2CircuitStatus
+Hardware	NOx-1	Sensor1O2SignalStatus	Sensor1O2SignalStatus
+Hardware	NOx-1	Sensor1Present	Sensor1Present
+Hardware	NOx-1	Sensor1RxID	Sensor1RxID
+Hardware	NOx-1	Sensor1SupplyStatus	Sensor1SupplyStatus
+Hardware	NOx-1	Sensor1TemperatureStatus	Sensor1TemperatureStatus
+Hardware	NOx-1	Sensor2_E	Sensor2_E
+Hardware	NOx-1	Sensor2HeaterCircuitStatus	Sensor2HeaterCircuitStatus
+Hardware	NOx-1	Sensor2HeaterModeStatus	Sensor2HeaterModeStatus
+Hardware	NOx-1	Sensor2NOx	Sensor2NOx
+Hardware	NOx-1	Sensor2NOxCircuitStatus	Sensor2NOxCircuitStatus
+Hardware	NOx-1	Sensor2NOxSignalStatus	Sensor2NOxSignalStatus
+Hardware	NOx-1	Sensor2O2	Sensor2O2
+Hardware	NOx-1	Sensor2O2CircuitStatus	Sensor2O2CircuitStatus
+Hardware	NOx-1	Sensor2O2SignalStatus	Sensor2O2SignalStatus
+Hardware	NOx-1	Sensor2Present	Sensor2Present
+Hardware	NOx-1	Sensor2RxID	Sensor2RxID
+Hardware	NOx-1	Sensor2SupplyStatus	Sensor2SupplyStatus
+Hardware	NOx-1	Sensor2TemperatureStatus	Sensor2TemperatureStatus
+Hardware	NOx-1	TxID	TxID

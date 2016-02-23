@@ -1,0 +1,18 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Hardware	TDK	GEN Address	GEN Address
+Hardware	TDK	GEN BaudRate	GEN BaudRate
+Hardware	TDK	GEN ControlLoopDuration	GEN Control Loop Duration
+Hardware	TDK	GEN ControlLoopRateSet	GEN Control Loop Rate Set
+Hardware	TDK	GEN Control Mode	GEN Control Mode
+Hardware	TDK	GEN Current Limit	GEN Current Limit
+Hardware	TDK	GEN Current Output	GEN Current Output
+Hardware	TDK	GEN Error Code	GEN Error Code
+Hardware	TDK	GEN Error Source	GEN Error Source
+Hardware	TDK	GEN Error Status	GEN Error Status
+Hardware	TDK	GEN Voltage Output	GEN Voltage Output
+Hardware	TDK	GEN Voltage Setpoint	GEN Voltage Setpoint
+Hardware	TDK	Output Enable	Output Enable
+Hardware	TDK	Over Voltage Limit	OverVoltage Limit
+Hardware	TDK	Reset	Reset

@@ -1,0 +1,17 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	FuelTrim	ClosedLoopFuelTrim_E	ClosedLoopFuelTrim_E
+Control	FuelTrim	ClosedLoopFuelTrimActive	ClosedLoopFuelTrimActive
+Control	FuelTrim	FuelTrim_Des	FuelTrim_Des
+Control	FuelTrim	FuelTrim_Kp	FuelTrim_Kp
+Control	FuelTrim	FuelTrim_Man	FuelTrim_Man
+Control	FuelTrim	FuelTrim_ManE	FuelTrim_ManE
+Control	FuelTrim	FuelTrim_PIDMax	FuelTrim_PIDMax
+Control	FuelTrim	FuelTrim_PIDMin	FuelTrim_PIDMin
+Control	FuelTrim	FuelTrim_PIDOut	FuelTrim_PIDOut
+Control	FuelTrim	FuelTrim_Td	FuelTrim_Td
+Control	FuelTrim	FuelTrim_Ti	FuelTrim_Ti
+Control	FuelTrim	IntegralEffort	IntegralEffort
+Control	FuelTrim	Lambda_Des	Lambda_Des
+Control	FuelTrim	UEGO1Lambda	UEGO1Lambda

@@ -1,0 +1,9 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	Throttle	ThrottleCtrlMode	ThrottleCtrlMode
+Control	Throttle	ThrottlePsn_Des	ThrottlePsn_Des
+Control	Throttle	ThrottlePsn_Man	ThrottlePsn_Man
+Control	Throttle	ThrottlePsn_ManE	ThrottlePsn_ManE
+Control	Throttle	ThrottlePsn_Tbl	ThrottlePsn_Tbl
+Control	Throttle	ThrottlePsn_TblOut	ThrottlePsn_TblOut

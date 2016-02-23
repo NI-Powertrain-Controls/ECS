@@ -1,0 +1,12 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	PortInj	CylFuelSplit	CylFuelSplit
+Control	PortInj	InjAdv_Des	InjAdv_Des
+Control	PortInj	InjAdv_Man	InjAdv_Man
+Control	PortInj	InjAdv_ManE	InjAdv_ManE
+Control	PortInj	InjAdv_Tbl	InjAdv_Tbl
+Control	PortInj	InjAdv_TblOut	InjAdv_TblOut
+Control	PortInj	InjQty_Des	InjQty_Des
+Control	PortInj	InjQty_Man	InjQty_Man
+Control	PortInj	InjQty_ManE	InjQty_ManE

@@ -1,0 +1,15 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	LoadCmd	EngineSpeed	EngineSpeed
+Control	LoadCmd	LoadCtrlMode	LoadCtrlMode
+Control	LoadCmd	MEP_Calc	MEP_Calc
+Control	LoadCmd	MEP_Des	MEP_Des
+Control	LoadCmd	MEP_Man	MEP_Man
+Control	LoadCmd	MEP_ManE	MEP_ManE
+Control	LoadCmd	NominalMEP_Tbl	NominalMEP_Tbl
+Control	LoadCmd	NominalMEP_TblOut	NominalMEP_TblOut
+Control	LoadCmd	Pedal_Des	Pedal_Des
+Control	LoadCmd	Pedal_Man	Pedal_Man
+Control	LoadCmd	Pedal_ManE	Pedal_ManE
+Control	LoadCmd	PedalInput	PedalInput

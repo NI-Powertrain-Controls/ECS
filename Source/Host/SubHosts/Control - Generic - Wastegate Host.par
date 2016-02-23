@@ -1,0 +1,17 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	WG	MAP	MAP
+Control	WG	MAPStp	MAPStp
+Control	WG	WgPsn_Des	WgPsn_Des
+Control	WG	WgPsn_Kp	WgPsn_Kp
+Control	WG	WgPsn_Man	WgPsn_Man
+Control	WG	WgPsn_ManE	WgPsn_ManE
+Control	WG	WgPsn_Max	WgPsn_Max
+Control	WG	WgPsn_Min	WgPsn_Min
+Control	WG	WgPsn_PIDE	WgPsn_PIDE
+Control	WG	WgPsn_PIDMax	WgPsn_PIDMax
+Control	WG	WgPsn_PIDMin	WgPsn_PIDMin
+Control	WG	WgPsn_PIDOut	WgPsn_PIDOut
+Control	WG	WgPsn_Td	WgPsn_Td
+Control	WG	WgPsn_Ti	WgPsn_Ti

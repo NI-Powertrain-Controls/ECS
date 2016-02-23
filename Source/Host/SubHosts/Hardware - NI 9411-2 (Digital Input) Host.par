@@ -1,0 +1,11 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Hardware	NI9411-2	DC	DC
+Hardware	NI9411-2	DigitalFilt	DigitalFilt
+Hardware	NI9411-2	DigitalInputBooleanArray	DigitalInputBooleanArray
+Hardware	NI9411-2	DigitalInvertConfig	DigitalInvertConfig
+Hardware	NI9411-2	FPGAReadError	FPGAReadError
+Hardware	NI9411-2	FPGAWriteError	FPGAWriteError
+Hardware	NI9411-2	Freq	Freq
+Hardware	NI9411-2	PulseWidth	PulseWidth

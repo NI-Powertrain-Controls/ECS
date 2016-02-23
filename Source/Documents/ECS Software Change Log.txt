@@ -1,0 +1,59 @@
+Version ECS_2015.0.2
+12/23/2015
+
+Notes:
+Significant updates throughout Real-time
+Added FPGA knock processing on PXI-based ECS
+Added support for NI NOx sensors using XNET interface (includes XNET database)
+Updated all top level host VIs
+Updated Diesel, GDI, and PFI control layers
+Added Stop button to Real-Time for interactive deployment
+Fixed bug in Engine Out - Direct Injectors.vi which prevent 0 injection duration if the min injection was above 0
+Added NI-XNET Device Drivers 15 or later to the required software list
+
+
+Version ECS_2015.0.1
+12/7/2015
+
+Notes:
+Updated compatibility with Powertrain Controls Device Drivers 2.140.0.37
+Removed depricated FPGA VIs
+
+
+Version ECS_2015.0
+12/3/2015
+
+Notes:
+2015 Update
+Updated all FPGAs to use EPTx (formerly EPT RevC)
+Moderate Real-Time SW architecture updates
+Revised HW out subVIs
+Added Tau-X VIs for PFI (not used)
+Added TDK labmda support
+
+Bugfixes:
+None
+
+
+Version 3.140.14955
+11/25/2014
+
+Notes:
+2014 Update
+Moderate SW architecture updates
+Added eDIDS hardware layer
+
+Bugfixes:
+None
+
+
+Version 3.130.14345
+8/20/2014
+
+Notes:
+Initial release 
+Diesel, GDI, and PFI Engine and Control Layers
+PXI-based ECS-100X and cRIO-based ECS-140X Hardware Layers
+
+Bugfixes:
+None

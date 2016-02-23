@@ -1,0 +1,9 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	PFIFuelCmd	Fuel_Calc	Fuel_Calc
+Control	PFIFuelCmd	Fuel_Des	Fuel_Des
+Control	PFIFuelCmd	Fuel_FFCalc	Fuel_FFCalc
+Control	PFIFuelCmd	Fuel_Man	Fuel_Man
+Control	PFIFuelCmd	Fuel_ManE	Fuel_ManE
+Control	PFIFuelCmd	Lambda_Des	Lambda_Des

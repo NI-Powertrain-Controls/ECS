@@ -1,0 +1,17 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Hardware	ADCombo-1	DC	DC
+Hardware	ADCombo-1	DigitalFilt	DigitalFilt
+Hardware	ADCombo-1	DigitalInputBooleanArray	DigitalInputBooleanArray
+Hardware	ADCombo-1	DigitalInvertConfig	DigitalInvertConfig
+Hardware	ADCombo-1	Divide	Divide
+Hardware	ADCombo-1	FPGAReadError	FPGAReadError
+Hardware	ADCombo-1	FPGAWriteError	FPGAWriteError
+Hardware	ADCombo-1	Freq	Freq
+Hardware	ADCombo-1	ModulePresent	ModulePresent
+Hardware	ADCombo-1	PullDown	PullDown
+Hardware	ADCombo-1	PullUp	PullUp
+Hardware	ADCombo-1	PulseWidth	PulseWidth
+Hardware	ADCombo-1	Resistance	Resistance
+Hardware	ADCombo-1	Voltage	Voltage

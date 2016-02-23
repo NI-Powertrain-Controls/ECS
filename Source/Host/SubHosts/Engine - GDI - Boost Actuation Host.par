@@ -1,0 +1,23 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Engine	GDIBoostActuation	BPVDutyCyc_Des	BPVDutyCyc_Des
+Engine	GDIBoostActuation	BPVDutyCyc_Man	BPVDutyCyc_Man
+Engine	GDIBoostActuation	BPVDutyCyc_ManE	BPVDutyCyc_ManE
+Engine	GDIBoostActuation	BPVDutyCyc_Max	BPVDutyCyc_Max
+Engine	GDIBoostActuation	BPVDutyCyc_Min	BPVDutyCyc_Min
+Engine	GDIBoostActuation	BPVDutyCyc_Tbl	BPVDutyCyc_Tbl
+Engine	GDIBoostActuation	BPVDutyCyc_TblOut	BPVDutyCyc_TblOut
+Engine	GDIBoostActuation	BPVPsnStp	BPVPsnStp
+Engine	GDIBoostActuation	BPVPWM_E	BPVPWM_E
+Engine	GDIBoostActuation	BPVPWMFreq	BPVPWMFreq
+Engine	GDIBoostActuation	WgDutyCyc_Des	WgDutyCyc_Des
+Engine	GDIBoostActuation	WgDutyCyc_Man	WgDutyCyc_Man
+Engine	GDIBoostActuation	WgDutyCyc_ManE	WgDutyCyc_ManE
+Engine	GDIBoostActuation	WgDutyCyc_Max	WgDutyCyc_Max
+Engine	GDIBoostActuation	WgDutyCyc_Min	WgDutyCyc_Min
+Engine	GDIBoostActuation	WgDutyCyc_Tbl	WgDutyCyc_Tbl
+Engine	GDIBoostActuation	WgDutyCyc_TblOut	WgDutyCyc_TblOut
+Engine	GDIBoostActuation	WgPsnStp	WgPsnStp
+Engine	GDIBoostActuation	WgPWM_E	WgPWM_E
+Engine	GDIBoostActuation	WgPWMFreq	WgPWMFreq

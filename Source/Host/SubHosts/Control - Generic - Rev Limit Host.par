@@ -1,0 +1,5 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	FuelCut	MaxEngineSpeed	MaxEngineSpeed
+Control	FuelCut	ReengageSpeed	ReengageSpeed

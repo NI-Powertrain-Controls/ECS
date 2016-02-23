@@ -1,0 +1,26 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Hardware	ESTTL-2	Ch1Enable	Ch1Enable
+Hardware	ESTTL-2	Ch2Enable	Ch2Enable
+Hardware	ESTTL-2	Ch3Enable	Ch3Enable
+Hardware	ESTTL-2	Ch4Enable	Ch4Enable
+Hardware	ESTTL-2	Ch5Enable	Ch5Enable
+Hardware	ESTTL-2	Ch6Enable	Ch6Enable
+Hardware	ESTTL-2	Ch7Enable	Ch7Enable
+Hardware	ESTTL-2	Ch8Enable	Ch8Enable
+Hardware	ESTTL-2	ChannelRestrikeEnable	ChannelRestrikeEnable
+Hardware	ESTTL-2	Delay1	Delay1
+Hardware	ESTTL-2	Delay2	Delay2
+Hardware	ESTTL-2	Delay3	Delay3
+Hardware	ESTTL-2	DisableOnCrit	DisableOnCrit
+Hardware	ESTTL-2	FPGAInterfaceError	FPGAInterfaceError
+Hardware	ESTTL-2	MainMaxDwell	MainMaxDwell
+Hardware	ESTTL-2	Restrike1Dwell 	Restrike1Dwell
+Hardware	ESTTL-2	Restrike1Enable	Restrike1Enable
+Hardware	ESTTL-2	Restrike2Dwell	Restrike2Dwell
+Hardware	ESTTL-2	Restrike2Enable	Restrike2Enable
+Hardware	ESTTL-2	Restrike3Dwell	Restrike3Dwell
+Hardware	ESTTL-2	Restrike3Enable	Restrike3Enable
+Hardware	ESTTL-2	WindowEnd	WindowEnd
+Hardware	ESTTL-2	WindowStart	WindowStart

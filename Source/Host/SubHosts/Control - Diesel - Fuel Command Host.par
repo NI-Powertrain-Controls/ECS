@@ -1,0 +1,8 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	DieselFuelCmd	Fuel_Des	Fuel_Des
+Control	DieselFuelCmd	Fuel_FFTbl	Fuel_FFTbl
+Control	DieselFuelCmd	Fuel_FFTblOut	Fuel_FFTblOut
+Control	DieselFuelCmd	Fuel_Man	Fuel_Man
+Control	DieselFuelCmd	Fuel_ManE	Fuel_ManE

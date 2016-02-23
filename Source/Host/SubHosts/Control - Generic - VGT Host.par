@@ -1,0 +1,26 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	VGT	ExhaustManifoldPLimit_E	ExhaustManifoldPLimit_E
+Control	VGT	ExhaustManifoldPLimit_Tbl	ExhaustManifoldPLimit_Tbl
+Control	VGT	ExhaustPLimited	ExhaustPLimited
+Control	VGT	MAP	MAP
+Control	VGT	MAP_Des	MAP_Des
+Control	VGT	TurboSpeedLimit_E	TurboSpeedLimit_E
+Control	VGT	TurboSpeedLimit_Tbl	TurboSpeedLimit_Tbl
+Control	VGT	TurboSpeedLimited	TurboSpeedLimited
+Control	VGT	VGTPsn_Calc	VGTPsn_Calc
+Control	VGT	VGTPsn_Des	VGTPsn_Des
+Control	VGT	VGTPsn_FFTbl	VGTPsn_FFTbl
+Control	VGT	VGTPsn_FFTblOut	VGTPsn_FFTblOut
+Control	VGT	VGTPsn_Kp	VGTPsn_Kp
+Control	VGT	VGTPsn_Man	VGTPsn_Man
+Control	VGT	VGTPsn_ManE	VGTPsn_ManE
+Control	VGT	VGTPsn_Max	VGTPsn_Max
+Control	VGT	VGTPsn_Min	VGTPsn_Min
+Control	VGT	VGTPsn_PIDE	VGTPsn_PIDE
+Control	VGT	VGTPsn_PIDMax	VGTPsn_PIDMax
+Control	VGT	VGTPsn_PIDMin	VGTPsn_PIDMin
+Control	VGT	VGTPsn_PIDOut	VGTPsn_PIDOut
+Control	VGT	VGTPsn_Td	VGTPsn_Td
+Control	VGT	VGTPsn_Ti	VGTPsn_Ti

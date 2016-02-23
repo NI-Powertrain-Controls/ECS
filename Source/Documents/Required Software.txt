@@ -1,0 +1,10 @@
+The following software is required to run the full ECS application:
+1. LabVIEW 2015 (32-bit) or later
+2. LabVIEW RT Module
+3. LabVIEW FPGA Module
+4. NI-RIO Device Drivers 15 or later
+5. NI-XNET Device Drivers 15 or later
+6. Xilinx Tools for compiling FPGA
+7. Powertrain Control Device Drivers (2.140.0.37 or later)
+8. Software Calibration Management Toolkit for LabVIEW 2015
+9. Combustion Analysis Software for LabVIEW 2015

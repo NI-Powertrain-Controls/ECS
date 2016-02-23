@@ -1,0 +1,36 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Engine	DI	DIWindowEnd	DIWindowEnd
+Engine	DI	DIWindowStart	DIWindowStart
+Engine	DI	FuelDensity	FuelDensity
+Engine	DI	Inj1Duration	Inj1Duration
+Engine	DI	Inj1Timing	Inj1Timing
+Engine	DI	Inj2Duration	Inj2Duration
+Engine	DI	Inj2Timing	Inj2Timing
+Engine	DI	Inj3Duration	Inj3Duration
+Engine	DI	Inj3Timing	Inj3Timing
+Engine	DI	Inj4Duration	Inj4Duration
+Engine	DI	Inj4Timing	Inj4Timing
+Engine	DI	Inj5Duration	Inj5Duration
+Engine	DI	Inj5Timing	Inj5Timing
+Engine	DI	Inj6Duration	Inj6Duration
+Engine	DI	Inj6Timing	Inj6Timing
+Engine	DI	Inj7Duration	Inj7Duration
+Engine	DI	Inj7Timing	Inj7Timing
+Engine	DI	Inj8Duration	Inj8Duration
+Engine	DI	Inj8Timing	Inj8Timing
+Engine	DI	InjCalibration_Tbl	InjCalibration_Tbl
+Engine	DI	InjPulseSwitch	InjPulseSwitch
+Engine	DI	MainDur_Man	MainDur_Man
+Engine	DI	MainDur_ManE	MainDur_ManE
+Engine	DI	MaxInjDur	MaxInjDur
+Engine	DI	MinInjDur	MinInjDur
+Engine	DI	Pilot1Dur_Man	Pilot1Dur_Man
+Engine	DI	Pilot1Dur_ManE	Pilot1Dur_ManE
+Engine	DI	Pilot2Dur_Man	Pilot2Dur_Man
+Engine	DI	Pilot2Dur_ManE	Pilot2Dur_ManE
+Engine	DI	Post1Dur_Man	Post1Dur_Man
+Engine	DI	Post1Dur_ManE	Post1Dur_ManE
+Engine	DI	Post2Dur_Man	Post2Dur_Man
+Engine	DI	Post2Dur_ManE	Post2Dur_ManE

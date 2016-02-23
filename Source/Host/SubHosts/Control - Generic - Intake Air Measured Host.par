@@ -1,0 +1,35 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	IntakeAirMeas	AirflowCorr_Calc	AirflowCorr_Calc
+Control	IntakeAirMeas	AirflowCorr_E	AirflowCorr_E
+Control	IntakeAirMeas	AirflowCorr_Tbl	AirflowCorr_Tbl
+Control	IntakeAirMeas	AirflowECTCorr_Tbl	AirflowECTCorr_Tbl
+Control	IntakeAirMeas	AirflowNoEGR_Calc	AirflowNoEGR_Calc
+Control	IntakeAirMeas	AirflowNoEGR_Tbl	AirflowNoEGR_Tbl
+Control	IntakeAirMeas	AirflowNoEGR_TblOut	AirflowNoEGR_TblOut
+Control	IntakeAirMeas	AvailableAirMass	AvailableAirMass
+Control	IntakeAirMeas	AvailableAirMassFlow	AvailableAirMassFlow
+Control	IntakeAirMeas	ChargeAirMass	ChargeAirMass
+Control	IntakeAirMeas	ChargeAirMassFlow	ChargeAirMassFlow
+Control	IntakeAirMeas	ConservationOfMassError	ConservationOfMassError
+Control	IntakeAirMeas	ConservationOfMassFault	ConservationOfMassFault
+Control	IntakeAirMeas	EGRMass	EGRMass
+Control	IntakeAirMeas	EGRMassFlow	EGRMassFlow
+Control	IntakeAirMeas	EGRMassFlow_PreCalc	EGRMassFlow_PreCalc
+Control	IntakeAirMeas	EGRMassFlow_PreCalcE	EGRMassFlow_PreCalcE
+Control	IntakeAirMeas	EngineSpeed	EngineSpeed
+Control	IntakeAirMeas	FreshAirMass	FreshAirMass
+Control	IntakeAirMeas	FreshAirMassFlow	FreshAirMassFlow
+Control	IntakeAirMeas	IntakeChargeMode	IntakeChargeMode
+Control	IntakeAirMeas	IntakeMAP	IntakeMAP
+Control	IntakeAirMeas	IntakeMAT	IntakeMAT
+Control	IntakeAirMeas	MAF	MAF
+Control	IntakeAirMeas	PrevFuel	PrevFuel
+Control	IntakeAirMeas	PrevLambda	PrevLambda
+Control	IntakeAirMeas	VE_Calc	VE_Calc
+Control	IntakeAirMeas	VE_Tbl	VE_Tbl
+Control	IntakeAirMeas	VE_TblOut	VE_TblOut
+Control	IntakeAirMeas	VELearn_E	VELearn_E
+Control	IntakeAirMeas	VELearn_Tbl	VELearn_Tbl
+Control	IntakeAirMeas	VELearnGain	VELearnGain

@@ -1,0 +1,34 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	Spark	EngineOverspeedSparkRet	EngineOverspeedSparkRet
+Control	Spark	KickMagnitude	KickMagnitude
+Control	Spark	Knock	Knock
+Control	Spark	MainDwell_Man	MainDwell_Man
+Control	Spark	MainDwell_ManE	MainDwell_ManE
+Control	Spark	MainDwell_Tbl	MainDwell_Tbl
+Control	Spark	MainDwell_TblOut	MainDwell_TblOut
+Control	Spark	MaxEngineSpeed	MaxEngineSpeed
+Control	Spark	NextCycleSparkAdv_E	NextCycleSparkAdv_E
+Control	Spark	NextCycleSparkAdvAvg	NextCycleSparkAdvAvg
+Control	Spark	RampKickAdv_Des	RampKickAdv_Des
+Control	Spark	RampKickGain	RampKickGain
+Control	Spark	RampKickMax	RampKickMax
+Control	Spark	RampKickMin	RampKickMin
+Control	Spark	ReKickDelay	ReKickDelay
+Control	Spark	SparkAdv_Calc	SparkAdv_Calc
+Control	Spark	SparkAdv_Des	SparkAdv_Des
+Control	Spark	SparkAdv_Man	SparkAdv_Man
+Control	Spark	SparkAdv_ManE	SparkAdv_ManE
+Control	Spark	SparkAdv_Tbl	SparkAdv_Tbl
+Control	Spark	SparkAdv_TblOut	SparkAdv_TblOut
+Control	Spark	SparkAdvBoost_E	SparkAdvBoost_E
+Control	Spark	SparkAdvBoost_Tbl	SparkAdvBoost_Tbl
+Control	Spark	SparkAdvBoost_TblOut	SparkAdvBoost_TblOut
+Control	Spark	SparkAdvEGR_E	SparkAdvEGR_E
+Control	Spark	SparkAdvEGR_Tbl	SparkAdvEGR_Tbl
+Control	Spark	SparkAdvEGR_TblOut	SparkAdvEGR_TblOut
+Control	Spark	SparkAdvRampKick_E	SparkAdvRampKick_E
+Control	Spark	SparkAdvWarmup_Tbl	SparkAdvWarmup_Tbl
+Control	Spark	SparkAdvWarmup_TblOut	SparkAdvWarmup_TblOut
+Control	Spark	SparkDwell_Des	SparkDwell_Des

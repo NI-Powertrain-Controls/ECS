@@ -1,0 +1,33 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	EGR	EGRMass_Des	EGRMass_Des
+Control	EGR	EGRMassStp_Man	EGRMassStp_Man
+Control	EGR	EGRMassStp_ManE	EGRMassStp_ManE
+Control	EGR	EGRMassStp_Tbl	EGRMassStp_Tbl
+Control	EGR	EGRMassStp_TblOut	EGRMassStp_TblOut
+Control	EGR	HighPEGRPsn_Calc	HighPEGRPsn_Calc
+Control	EGR	HighPEGRPsn_Des	HighPEGRPsn_Des
+Control	EGR	HighPEGRPsn_FF	HighPEGRPsn_FF
+Control	EGR	HighPEGRPsn_FFMan	HighPEGRPsn_FFMan
+Control	EGR	HighPEGRPsn_FFManE	HighPEGRPsn_FFManE
+Control	EGR	HighPEGRPsn_FFTbl	HighPEGRPsn_FFTbl
+Control	EGR	HighPEGRPsn_FFTblOut	HighPEGRPsn_FFTblOut
+Control	EGR	HighPEGRPsn_Kp	HighPEGRPsn_Kp
+Control	EGR	HighPEGRPsn_Man	HighPEGRPsn_Man
+Control	EGR	HighPEGRPsn_ManE	HighPEGRPsn_ManE
+Control	EGR	HighPEGRPsn_Max	HighPEGRPsn_Max
+Control	EGR	HighPEGRPsn_Min	HighPEGRPsn_Min
+Control	EGR	HighPEGRPsn_PIDE	HighPEGRPsn_PIDE
+Control	EGR	HighPEGRPsn_PIDMax	HighPEGRPsn_PIDMax
+Control	EGR	HighPEGRPsn_PIDMin	HighPEGRPsn_PIDMin
+Control	EGR	HighPEGRPsn_PIDOut	HighPEGRPsn_PIDOut
+Control	EGR	HighPEGRPsn_Td	HighPEGRPsn_Td
+Control	EGR	HighPEGRPsn_Ti	HighPEGRPsn_Ti
+Control	EGR	LowPEGRPsn_Des	LowPEGRPsn_Des
+Control	EGR	LowPEGRPsn_Man	LowPEGRPsn_Man
+Control	EGR	LowPEGRPsn_ManE	LowPEGRPsn_ManE
+Control	EGR	LowPEGRPsn_Max	LowPEGRPsn_Max
+Control	EGR	LowPEGRPsn_Min	LowPEGRPsn_Min
+Control	EGR	LowPEGRPsn_Tbl	LowPEGRPsn_Tbl
+Control	EGR	LowPEGRPsn_TblOut	LowPEGRPsn_TblOut

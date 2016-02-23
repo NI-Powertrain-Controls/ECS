@@ -1,0 +1,23 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Engine	PFIBoostActuation	BPVDutyCyc_Des	BPVDutyCyc_Des
+Engine	PFIBoostActuation	BPVDutyCyc_Man	BPVDutyCyc_Man
+Engine	PFIBoostActuation	BPVDutyCyc_ManE	BPVDutyCyc_ManE
+Engine	PFIBoostActuation	BPVDutyCyc_Max	BPVDutyCyc_Max
+Engine	PFIBoostActuation	BPVDutyCyc_Min	BPVDutyCyc_Min
+Engine	PFIBoostActuation	BPVDutyCyc_Tbl	BPVDutyCyc_Tbl
+Engine	PFIBoostActuation	BPVDutyCyc_TblOut	BPVDutyCyc_TblOut
+Engine	PFIBoostActuation	BPVPsnStp	BPVPsnStp
+Engine	PFIBoostActuation	BPVPWM_E	BPVPWM_E
+Engine	PFIBoostActuation	BPVPWMFreq	BPVPWMFreq
+Engine	PFIBoostActuation	WgDutyCyc_Des	WgDutyCyc_Des
+Engine	PFIBoostActuation	WgDutyCyc_Man	WgDutyCyc_Man
+Engine	PFIBoostActuation	WgDutyCyc_ManE	WgDutyCyc_ManE
+Engine	PFIBoostActuation	WgDutyCyc_Max	WgDutyCyc_Max
+Engine	PFIBoostActuation	WgDutyCyc_Min	WgDutyCyc_Min
+Engine	PFIBoostActuation	WgDutyCyc_Tbl	WgDutyCyc_Tbl
+Engine	PFIBoostActuation	WgDutyCyc_TblOut	WgDutyCyc_TblOut
+Engine	PFIBoostActuation	WgPsnStp	WgPsnStp
+Engine	PFIBoostActuation	WgPWM_E	WgPWM_E
+Engine	PFIBoostActuation	WgPWMFreq	WgPWMFreq

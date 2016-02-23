@@ -1,0 +1,21 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Engine	PFI	AutoTiming_E	AutoTiming_E
+Engine	PFI	CamSwitch	CamSwitch
+Engine	PFI	InjectorOpenTime_Gain	InjectorOpenTime_Gain
+Engine	PFI	InjectorOpenTime_Tbl	InjectorOpenTime_Tbl
+Engine	PFI	InjectorOpenTime_TblOut	InjectorOpenTime_TblOut
+Engine	PFI	InjQty	InjQty
+Engine	PFI	IVC	IVC
+Engine	PFI	IVO	IVO
+Engine	PFI	MAPCorrFactor_E	MAPCorrFactor_E
+Engine	PFI	MAPCorrFactor_Tbl	MAPCorrFactor_Tbl
+Engine	PFI	PFIFuelDensity	PFIFuelDensity
+Engine	PFI	PFIInjectorFlowRate	PFIInjectorFlowRate
+Engine	PFI	PsnMode	PsnMode
+Engine	PFI	PulseWidth_Des	PulseWidth_Des
+Engine	PFI	PulseWidth_Man	PulseWidth_Man
+Engine	PFI	PulseWidth_ManE	PulseWidth_ManE
+Engine	PFI	PulseWidth_Max	PulseWidth_Max
+Engine	PFI	Timing_Des	Timing_Des

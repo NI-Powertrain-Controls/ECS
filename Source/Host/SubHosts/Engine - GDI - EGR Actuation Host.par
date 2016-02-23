@@ -1,0 +1,13 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Engine	GDIEGRActuation	EGRDutyCyc_Des	EGRDutyCyc_Des
+Engine	GDIEGRActuation	EGRDutyCyc_Man	EGRDutyCyc_Man
+Engine	GDIEGRActuation	EGRDutyCyc_ManE	EGRDutyCyc_ManE
+Engine	GDIEGRActuation	EGRDutyCyc_Max	EGRDutyCyc_Max
+Engine	GDIEGRActuation	EGRDutyCyc_Min	EGRDutyCyc_Min
+Engine	GDIEGRActuation	EGRDutyCyc_Tbl	EGRDutyCyc_Tbl
+Engine	GDIEGRActuation	EGRDutyCyc_TblOut	EGRDutyCyc_TblOut
+Engine	GDIEGRActuation	EGRPsnStp	EGRPsnStp
+Engine	GDIEGRActuation	EGRPWM_E	EGRPWM_E
+Engine	GDIEGRActuation	EGRPWMFreq	EGRPWMFreq

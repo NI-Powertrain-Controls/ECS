@@ -1,0 +1,6 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Hardware	Power	ESTOP	ESTOP
+Hardware	Power	FPGAWriteError	FPGAWriteError
+Hardware	Power	PowerEnable	PowerEnable

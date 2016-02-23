@@ -1,0 +1,13 @@
+Drivven Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	VVA	Cam1Adv_Des	Cam1Adv_Des
+Control	VVA	Cam1Adv_Man	Cam1Adv_Man
+Control	VVA	Cam1Adv_ManE	Cam1Adv_ManE
+Control	VVA	Cam1Adv_Tbl	Cam1Adv_Tbl
+Control	VVA	Cam1Adv_TblOut	Cam1Adv_TblOut
+Control	VVA	Cam2Adv_Des	Cam2Adv_Des
+Control	VVA	Cam2Adv_Man	Cam2Adv_Man
+Control	VVA	Cam2Adv_ManE	Cam2Adv_ManE
+Control	VVA	Cam2Adv_Tbl	Cam2Adv_Tbl
+Control	VVA	Cam2Adv_TblOut	Cam2Adv_TblOut

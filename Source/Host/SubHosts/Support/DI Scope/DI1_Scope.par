@@ -1,0 +1,5 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Hardware	DI-1	Scope	DI1_Scope
+Hardware	DI-1	ScopeRefresh	DI1_ScopeRefresh

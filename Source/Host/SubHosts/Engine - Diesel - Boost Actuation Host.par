@@ -1,0 +1,23 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Engine	DieselBoostActuation	VGTDutyCyc_Des	VGTDutyCyc_Des
+Engine	DieselBoostActuation	VGTDutyCyc_Man	VGTDutyCyc_Man
+Engine	DieselBoostActuation	VGTDutyCyc_ManE	VGTDutyCyc_ManE
+Engine	DieselBoostActuation	VGTDutyCyc_Max	VGTDutyCyc_Max
+Engine	DieselBoostActuation	VGTDutyCyc_Min	VGTDutyCyc_Min
+Engine	DieselBoostActuation	VGTDutyCyc_Tbl	VGTDutyCyc_Tbl
+Engine	DieselBoostActuation	VGTDutyCyc_TblOut	VGTDutyCyc_TblOut
+Engine	DieselBoostActuation	VGTPsnStp	VGTPsnStp
+Engine	DieselBoostActuation	VGTPWM_E	VGTPWM_E
+Engine	DieselBoostActuation	VGTPWMFreq	VGTPWMFreq
+Engine	DieselBoostActuation	WgDutyCyc_Des	WgDutyCyc_Des
+Engine	DieselBoostActuation	WgDutyCyc_Man	WgDutyCyc_Man
+Engine	DieselBoostActuation	WgDutyCyc_ManE	WgDutyCyc_ManE
+Engine	DieselBoostActuation	WgDutyCyc_Max	WgDutyCyc_Max
+Engine	DieselBoostActuation	WgDutyCyc_Min	WgDutyCyc_Min
+Engine	DieselBoostActuation	WgDutyCyc_Tbl	WgDutyCyc_Tbl
+Engine	DieselBoostActuation	WgDutyCyc_TblOut	WgDutyCyc_TblOut
+Engine	DieselBoostActuation	WgPsnStp	WgPsnStp
+Engine	DieselBoostActuation	WgPWM_E	WgPWM_E
+Engine	DieselBoostActuation	WgPWMFreq	WgPWMFreq

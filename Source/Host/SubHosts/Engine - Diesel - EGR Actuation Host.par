@@ -1,0 +1,12 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Engine	DieselEGRActuation	HighPEGRPsnStp	HighPEGRPsnStp
+Engine	DieselEGRActuation	LowPEGRDutyCyc_Des	LowPEGRDutyCyc_Des
+Engine	DieselEGRActuation	LowPEGRDutyCyc_Man	LowPEGRDutyCyc_Man
+Engine	DieselEGRActuation	LowPEGRDutyCyc_ManE	LowPEGRDutyCyc_ManE
+Engine	DieselEGRActuation	LowPEGRDutyCyc_Max	LowPEGRDutyCyc_Max
+Engine	DieselEGRActuation	LowPEGRDutyCyc_Min	LowPEGRDutyCyc_Min
+Engine	DieselEGRActuation	LowPEGRDutyCyc_Tbl	LowPEGRDutyCyc_Tbl
+Engine	DieselEGRActuation	LowPEGRDutyCyc_TblOut	LowPEGRDutyCyc_TblOut
+Engine	DieselEGRActuation	LowPEGRPsnStp	LowPEGRPsnStp
