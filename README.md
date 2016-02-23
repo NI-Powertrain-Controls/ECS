@@ -16,9 +16,11 @@ This IP should be considered example quality.
 
 ### Dependencies ###
 
-<Required> [NI Powertrain Controls Device Drivers](http://www.ni.com/gate/gb/GB_EVALTLKTPOWERTRAINDD/US)
-<Required> [NI Software Calibration Management Toolkit for LabVIEW 2015] (http://sine.ni.com/nips/cds/view/p/lang/en/nid/212381)
-<Recommended> [NI Combustion Analysis System Software for LabVIEW 2015] (http://sine.ni.com/nips/cds/view/p/lang/en/nid/211994)
+Required [NI Powertrain Controls Device Drivers](http://www.ni.com/gate/gb/GB_EVALTLKTPOWERTRAINDD/US)
+
+Required [NI Software Calibration Management Toolkit for LabVIEW 2015] (http://sine.ni.com/nips/cds/view/p/lang/en/nid/212381)
+
+Recommended [NI Combustion Analysis System Software for LabVIEW 2015] (http://sine.ni.com/nips/cds/view/p/lang/en/nid/211994)
 
 ### License ###
 
