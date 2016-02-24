@@ -238,6 +238,9 @@
 	</Item>
 	<Item Name="Hardware Out" Type="Folder">
 		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Support" Type="Folder">
+				<Item Name="Route Throttle AIs.vi" Type="VI" URL="../RT/Hardware Out/SubVIs/Support/Route Throttle AIs.vi"/>
+			</Item>
 			<Item Name="Hardware Out - ECS - Power.vi" Type="VI" URL="../RT/Hardware Out/SubVIs/Hardware Out - ECS - Power.vi"/>
 			<Item Name="Hardware Out - NI 9269-1 (Analog Output).vi" Type="VI" URL="../RT/Hardware Out/SubVIs/Hardware Out - NI 9269-1 (Analog Output).vi"/>
 			<Item Name="Hardware Out - NI 9411-1 (Digital Input).vi" Type="VI" URL="../RT/Hardware Out/SubVIs/Hardware Out - NI 9411-1 (Digital Input).vi"/>
@@ -278,6 +281,7 @@
 		<Item Name="ECS - Scopes - DI2 Scope.vi" Type="VI" URL="../RT/Other/ECS - Scopes - DI2 Scope.vi"/>
 		<Item Name="ECS - Scopes - DI3 Scope.vi" Type="VI" URL="../RT/Other/ECS - Scopes - DI3 Scope.vi"/>
 		<Item Name="ECS - Scopes - DI4 Scope.vi" Type="VI" URL="../RT/Other/ECS - Scopes - DI4 Scope.vi"/>
+		<Item Name="ECS - System - Close FPGAs.vi" Type="VI" URL="../RT/Other/ECS - System - Close FPGAs.vi"/>
 		<Item Name="ECS - System - Engine Run Time.vi" Type="VI" URL="../RT/Other/ECS - System - Engine Run Time.vi"/>
 		<Item Name="ECS - System - Exec Info.vi" Type="VI" URL="../RT/Other/ECS - System - Exec Info.vi"/>
 		<Item Name="ECS - System - User Interface Calpoints.vi" Type="VI" URL="../RT/Other/ECS - System - User Interface Calpoints.vi"/>

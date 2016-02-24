@@ -188,6 +188,7 @@
 			<Item Name="TrackingChart.xctl" Type="XControl" URL="../Host/SubHosts/Support/Tracking Chart xCTL/TrackingChart.xctl"/>
 		</Item>
 		<Item Name="ChangeIndicator.vi" Type="VI" URL="../Host/SubHosts/Support/ChangeIndicator.vi"/>
+		<Item Name="Color Table.vi" Type="VI" URL="../Host/SubHosts/Support/Color Table.vi"/>
 		<Item Name="MultiListBoxDuplicatesCheck.vi" Type="VI" URL="../Host/SubHosts/Support/MultiListBoxDuplicatesCheck.vi"/>
 		<Item Name="Tracking Chart Refresh.vi" Type="VI" URL="../Host/SubHosts/Support/Tracking Chart Refresh.vi"/>
 		<Item Name="XY Plot Buffer.vi" Type="VI" URL="../Host/SubHosts/Support/XY Plot Buffer.vi"/>

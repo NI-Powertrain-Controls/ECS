@@ -9,18 +9,19 @@ Hardware	XNET-CAN	CAN Interface	CAN Interface
 Hardware	XNET-CAN	CAN Interfaces	CAN Interfaces
 Hardware	XNET-CAN	CAN Rx Signals	CAN Rx Signals
 Hardware	XNET-CAN	CAN Tx Signals	CAN Tx Signals
-Hardware	XNET-CAN	CAN_Run	CAN_Run
 Hardware	XNET-CAN	ControlParamMem	ControlParamMem
 Hardware	XNET-CAN	DatabaseAlias	DatabaseAlias
 Hardware	XNET-CAN	Deployed Clusters	Deployed Clusters
 Hardware	XNET-CAN	Deployed Databases	Deployed Databases
 Hardware	XNET-CAN	Deployed ECUs	Deployed ECUs
+Hardware	XNET-CAN	Enable	Enable
 Hardware	XNET-CAN	Intf_CAN_Term	Intf_CAN_Term
 SCMReserved	Reserved	IP_Address	IP_Address
 Hardware	XNET-CAN	XNETLoopDuration	Loop Duration
 Hardware	XNET-CAN	Loop Period	Loop Period
 System	Calpoints	NamesShort	NamesShort
 Hardware	XNET-CAN	Refresh Database	Refresh Database
+Hardware	XNET-CAN	Run	Run
 Hardware	XNET-CAN	Rx Data	Rx Data
 Hardware	XNET-CAN	Rx Signals	Rx Signals
 Hardware	XNET-CAN	Tx Data	Tx Data

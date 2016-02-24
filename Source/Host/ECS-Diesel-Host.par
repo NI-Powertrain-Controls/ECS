@@ -6,6 +6,7 @@ Engine	Faults	5VPSU_CriticalFault	5VPSU_CriticalFault
 Engine	Faults	BattV_CriticalFault	BattV_CriticalFault
 System	UI	CalpointData	CalPointData
 System	UI	CalpointIDs	CalPointIDs
+System	UI	Colors	Colors
 System	Faults	Critical Fault	Critical Fault
 System	Runtime	Engine Time	Engine Time
 System	Runtime	Engine Time Reset	Engine Time Reset
@@ -18,7 +19,12 @@ Hardware	EPTx	ForceSafeState	ForceSafeState
 Control	IntakeAirDes	MAP_Des	MAP_Des
 Control	IntakeAirDes	MAP_Man	MAP_Man
 Control	IntakeAirDes	MAP_ManE	MAP_ManE
+Control	LoadCmd	MEP_Des	MEP_Des
+Control	LoadCmd	MEP_Man	MEP_Man
+Control	LoadCmd	MEP_ManE	MEP_ManE
+System	UI	N Items	N Items
 System	Calpoints	NamesLong	NamesLong
+Control	LoadCmd	NominalMEP_Tbl	NominalMEP_Tbl
 System	Faults	Non-Critical Fault	Non-Critical Fault
 Control	LoadCmd	Pedal_Des	Pedal_Des
 Control	LoadCmd	Pedal_Man	Pedal_Man
@@ -30,9 +36,8 @@ Control	RailP	RailP_ManE	RailP_ManE
 Hardware	EPTx	ReceivingPrimaryFPGA1	ReceivingPrimaryFPGA1
 System	UI	SliderMax	SliderMax
 System	UI	SliderMin	SliderMin
-System	UI	SliderSelection	SliderSelection
 System	UI	Software Version	Software Version
 Hardware	EPTx	SyncEnable	SyncEnable
 Hardware	EPTx	SyncFPGA1	SyncFPGA1
 System	Runtime	Time Since Start	Time Since Start
-System	UI	Units	Units
+System	Calpoints	Units	Units

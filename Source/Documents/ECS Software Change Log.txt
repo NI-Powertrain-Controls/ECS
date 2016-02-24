@@ -1,3 +1,17 @@
+Version ECS_2015.0.3
+2/24/2015
+
+Notes:
+Fixed bug in Control - Direct Injection.vi which prevented FOR loop from running
+Changed Calpoints in Hardware Out - 9759-1 (Throttle).vi to read from Cal File calibration
+Changed DI Pulse Check.vi to only indicate a pulse overlap if relevant channels are enabled
+Changed SparkAdv_Man Calpoint in Control - Spark.vi to an array instead of scalar (individual cylinder manual advance)
+Overhaul of Host VI plot look and feel
+Added a disable button for the XNET VI to prevent unnecessary faults
+Moved several calpoints outside of conditional disables in Hardware In - ECS - EPTx Interface.vi
+Removed cvi_lvrt.dll from project directory (no longer needed for LabVIEW 2015)
+
+
 Version ECS_2015.0.2
 12/23/2015
 
