@@ -63,8 +63,8 @@
 				<Item Name="Control - Spark.vi" Type="VI" URL="../RT/Control/Generic/Ignition Systems/Control - Spark.vi"/>
 			</Item>
 			<Item Name="Load Command" Type="Folder">
-				<Item Name="Control - Load Command - High-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - High-Idle Governor.vi"/>
-				<Item Name="Control - Load Command - Low-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Low-Idle Governor.vi"/>
+				<Item Name="Control - Load Command - Max Speed Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Max Speed Governor.vi"/>
+				<Item Name="Control - Load Command - Min Speed Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Min Speed Governor.vi"/>
 			</Item>
 			<Item Name="Control - Lambda Command.vi" Type="VI" URL="../RT/Control/Generic/Control - Lambda Command.vi"/>
 			<Item Name="Control - Load Command.vi" Type="VI" URL="../RT/Control/Generic/Control - Load Command.vi"/>

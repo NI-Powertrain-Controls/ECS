@@ -3379,6 +3379,8 @@ InactivityTimeout 60
 			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Control - Load Command - High-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - High-Idle Governor.vi"/>
+			<Item Name="Control - Load Command - Low-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Low-Idle Governor.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="ECS RT App" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -6172,7 +6174,6 @@ InactivityTimeout 60
 					<Item Name="uego_reve.vi" Type="VI" URL="/&lt;vilib&gt;/Powertrain Controls/Device Drivers/O2/RevE/FPGA/Support/uego_reve.vi"/>
 					<Item Name="Knock - RevA - FPGA.lvlib" Type="Library" URL="/&lt;vilib&gt;/Powertrain Controls/Device Drivers/FPGA Knock/RevA/FPGA/Knock - RevA - FPGA.lvlib"/>
 				</Item>
-				<Item Name="RMIO AI Convert.vi" Type="VI" URL="../FPGA/FPGA Support/RMIO AI Convert.vi"/>
 			</Item>
 			<Item Name="Build Specifications" Type="Build">
 				<Item Name="ECS-100X-FPGA1-EPTx" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
@@ -7760,7 +7761,6 @@ InactivityTimeout 60
 					<Item Name="pwm_2x_16b_ps.vi" Type="VI" URL="/&lt;vilib&gt;/Powertrain Controls/Device Drivers/Tools/FPGA/pwm_2x_16b_ps.vi"/>
 					<Item Name="Knock - RevA - FPGA.lvlib" Type="Library" URL="/&lt;vilib&gt;/Powertrain Controls/Device Drivers/FPGA Knock/RevA/FPGA/Knock - RevA - FPGA.lvlib"/>
 				</Item>
-				<Item Name="RMIO AI Convert.vi" Type="VI" URL="../FPGA/FPGA Support/RMIO AI Convert.vi"/>
 			</Item>
 			<Item Name="Build Specifications" Type="Build">
 				<Item Name="ECS-100X-FPGA2-EPTx" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
@@ -8281,6 +8281,8 @@ InactivityTimeout 60
 			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Control - Load Command - High-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - High-Idle Governor.vi"/>
+			<Item Name="Control - Load Command - Low-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Low-Idle Governor.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="ECS RT App" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -10512,7 +10514,6 @@ DirectoryIndex index.htm
 				<Item Name="EPTx - RevA - RT.lvlib" Type="Library" URL="/&lt;vilib&gt;/Powertrain Controls/Device Drivers/Engine Position Tracking/EPTx/RevA/RT/EPTx - RevA - RT.lvlib"/>
 				<Item Name="Dflt Data Dir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Dflt Data Dir.vi"/>
 				<Item Name="EPTx - RevA - FPGA.lvlib" Type="Library" URL="/&lt;vilib&gt;/Powertrain Controls/Device Drivers/Engine Position Tracking/EPTx/RevA/FPGA/EPTx - RevA - FPGA.lvlib"/>
-				<Item Name="Stop Timed Structure.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/TimedLoop/scheduler/LVUserAPI/Stop Timed Structure.vi"/>
 				<Item Name="SCM - Pad Text.vi" Type="VI" URL="/&lt;vilib&gt;/addons/Software Calibration Management/_CalPointResources/SCM - Pad Text.vi"/>
 				<Item Name="XNET Fill In Error Info.vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Fill In Error Info.vi"/>
 				<Item Name="XNET String To IO Name (Frame).vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET String To IO Name (Frame).vi"/>
@@ -10809,6 +10810,7 @@ DirectoryIndex index.htm
 				<Item Name="DAQmx Read (Counter 1D U32 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/read.llb/DAQmx Read (Counter 1D U32 1Chan NSamp).vi"/>
 				<Item Name="CAS - SCM Interface.vi" Type="VI" URL="/&lt;vilib&gt;/addons/Combustion Analysis System/CAS - SCM Interface.vi"/>
 				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
+				<Item Name="Stop Timed Structure.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/TimedLoop/scheduler/LVUserAPI/Stop Timed Structure.vi"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="GENser Close.vi" Type="VI" URL="/&lt;instrlib&gt;/GENser/GENser.llb/GENser Close.vi"/>
@@ -10842,9 +10844,6 @@ DirectoryIndex index.htm
 			</Item>
 			<Item Name="ECS-1408-FPGA1-EPTx.lvbitx" Type="Document" URL="../FPGA Bitfiles/ECS-1408-FPGA1-EPTx.lvbitx"/>
 			<Item Name="ECS-1408-FPGA2-EPTx.lvbitx" Type="Document" URL="../FPGA Bitfiles/ECS-1408-FPGA2-EPTx.lvbitx"/>
-			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="ECS-1402-FPGA-EPTx.lvbitx" Type="Document" URL="../FPGA Bitfiles/ECS-1402-FPGA-EPTx.lvbitx"/>
 			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -10853,6 +10852,11 @@ DirectoryIndex index.htm
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Control - Load Command - High-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - High-Idle Governor.vi"/>
+			<Item Name="Control - Load Command - Low-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Low-Idle Governor.vi"/>
+			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
@@ -15582,6 +15586,8 @@ DirectoryIndex index.htm
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Control - Load Command - High-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - High-Idle Governor.vi"/>
+			<Item Name="Control - Load Command - Low-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Low-Idle Governor.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -19988,7 +19994,6 @@ AddOutputFilter chunkFilter
 				<Item Name="uego_calibration_reve.vi" Type="VI" URL="/&lt;vilib&gt;/Powertrain Controls/Device Drivers/O2/RevE/Real-Time/uego_calibration_reve.vi"/>
 				<Item Name="Knock - RevA - RT.lvlib" Type="Library" URL="/&lt;vilib&gt;/Powertrain Controls/Device Drivers/FPGA Knock/RevA/RT/Knock - RevA - RT.lvlib"/>
 				<Item Name="Knock - RevA - FPGA.lvlib" Type="Library" URL="/&lt;vilib&gt;/Powertrain Controls/Device Drivers/FPGA Knock/RevA/FPGA/Knock - RevA - FPGA.lvlib"/>
-				<Item Name="Stop Timed Structure.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/TimedLoop/scheduler/LVUserAPI/Stop Timed Structure.vi"/>
 				<Item Name="CAS - Results - Cycle Data.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/Combustion Analysis System/Real-Time/Controls/Results/CAS - Results - Cycle Data.ctl"/>
 				<Item Name="CAS - Results - Cycle Data.vi" Type="VI" URL="/&lt;vilib&gt;/addons/Combustion Analysis System/Real-Time/Globals/Results/CAS - Results - Cycle Data.vi"/>
 				<Item Name="CAS - Results - Cycle Waveforms.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/Combustion Analysis System/Real-Time/Controls/Results/CAS - Results - Cycle Waveforms.ctl"/>
@@ -20180,9 +20185,10 @@ AddOutputFilter chunkFilter
 				<Item Name="CAS - Structure - Next-Cycle Loop.vi" Type="VI" URL="/&lt;vilib&gt;/addons/Combustion Analysis System/Real-Time/Structure/CAS - Structure - Next-Cycle Loop.vi"/>
 				<Item Name="CAS - Structure - Setup.vi" Type="VI" URL="/&lt;vilib&gt;/addons/Combustion Analysis System/Real-Time/Structure/CAS - Structure - Setup.vi"/>
 				<Item Name="CAS - Real Time.vi" Type="VI" URL="/&lt;vilib&gt;/addons/Combustion Analysis System/CAS - Real Time.vi"/>
-				<Item Name="DAQmx Create Channel (CI-Count Edges).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/Create/channels.llb/DAQmx Create Channel (CI-Count Edges).vi"/>
+				<Item Name="DAQmx Create Channel (CI-Count Edges).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (CI-Count Edges).vi"/>
 				<Item Name="DAQmx Read (Counter 1D U32 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/read.llb/DAQmx Read (Counter 1D U32 1Chan NSamp).vi"/>
 				<Item Name="NICAS_Utility.dll" Type="Document" URL="/&lt;vilib&gt;/addons/Combustion Analysis System/Real-Time/NICAS_Utility.dll"/>
+				<Item Name="Stop Timed Structure.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/TimedLoop/scheduler/LVUserAPI/Stop Timed Structure.vi"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="GENser Close.vi" Type="VI" URL="/&lt;instrlib&gt;/GENser/GENser.llb/GENser Close.vi"/>
@@ -20222,10 +20228,12 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="eDIDS-24XX-FPGA1-EPTx.lvbitx" Type="Document" URL="../FPGA Bitfiles/eDIDS-24XX-FPGA1-EPTx.lvbitx"/>
 			<Item Name="eDIDS-24XX-FPGA2-EPTx.lvbitx" Type="Document" URL="../FPGA Bitfiles/eDIDS-24XX-FPGA2-EPTx.lvbitx"/>
-			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
+			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
+			<Item Name="Control - Load Command - High-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - High-Idle Governor.vi"/>
+			<Item Name="Control - Load Command - Low-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Low-Idle Governor.vi"/>
+			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
