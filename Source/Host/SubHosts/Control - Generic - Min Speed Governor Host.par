@@ -1,0 +1,23 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	MinGov	IdleSpeed_Man	IdleSpeed_Man
+Control	MinGov	IdleSpeed_ManE	IdleSpeed_ManE
+Control	MinGov	IdleSpeed_Tbl	IdleSpeed_Tbl
+Control	MinGov	IdleSpeed_TblOut	IdleSpeed_TblOut
+Control	MinGov	PID_DEffort	PID_DEffort
+Control	MinGov	PID_DerMax	PID_DerMax
+Control	MinGov	PID_DerMin	PID_DerMin
+Control	MinGov	PID_E	PID_E
+Control	MinGov	PID_IEffort	PID_IEffort
+Control	MinGov	PID_IntMax	PID_IntMax
+Control	MinGov	PID_IntMin	PID_IntMin
+Control	MinGov	PID_Kd	PID_Kd
+Control	MinGov	PID_Ki	PID_Ki
+Control	MinGov	PID_Kp	PID_Kp
+Control	MinGov	PID_PEffort	PID_PEffort
+Control	MinGov	PID_Max	PID_Max
+Control	MinGov	PID_Min	PID_Min
+Control	MinGov	PID_Out	PID_Out
+Control	MinGov	PedalIn	PedalIn
+Control	MinGov	PedalOut	PedalOut

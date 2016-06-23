@@ -1,0 +1,20 @@
+SCM Pairings File 
+v1.1
+Target Class	Target Group	Target Name	Host Item
+Control	MaxGov	PID_DEffort	PID_DEffort
+Control	MaxGov	PID_DerMax	PID_DerMax
+Control	MaxGov	PID_DerMin	PID_DerMin
+Control	MaxGov	PID_E	PID_E
+Control	MaxGov	PID_IEffort	PID_IEffort
+Control	MaxGov	PID_IntMax	PID_IntMax
+Control	MaxGov	PID_IntMin	PID_IntMin
+Control	MaxGov	PID_Kd	PID_Kd
+Control	MaxGov	PID_Ki	PID_Ki
+Control	MaxGov	PID_Kp	PID_Kp
+Control	MaxGov	PID_PEffort	PID_PEffort
+Control	MaxGov	PID_Max	PID_Max
+Control	MaxGov	PID_Min	PID_Min
+Control	MaxGov	PID_Out	PID_Out
+Control	MaxGov	MaxSpeed	MaxSpeed
+Control	MaxGov	PedalIn	PedalIn
+Control	MaxGov	PedalOut	PedalOut

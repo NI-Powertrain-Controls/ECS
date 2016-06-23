@@ -25,8 +25,6 @@
 			<Item Name="Control - Generic - EGR Host.vi" Type="VI" URL="../Host/SubHosts/Control - Generic - EGR Host.vi"/>
 			<Item Name="Control - Generic - Fuel Cut Host.par" Type="Document" URL="../Host/SubHosts/Control - Generic - Fuel Cut Host.par"/>
 			<Item Name="Control - Generic - Fuel Cut Host.vi" Type="VI" URL="../Host/SubHosts/Control - Generic - Fuel Cut Host.vi"/>
-			<Item Name="Control - Generic - High-Idle Governor Host.par" Type="Document" URL="../Host/SubHosts/Control - Generic - High-Idle Governor Host.par"/>
-			<Item Name="Control - Generic - High-Idle Governor Host.vi" Type="VI" URL="../Host/SubHosts/Control - Generic - High-Idle Governor Host.vi"/>
 			<Item Name="Control - Generic - Intake Air Desired MAF Host.par" Type="Document" URL="../Host/SubHosts/Control - Generic - Intake Air Desired MAF Host.par"/>
 			<Item Name="Control - Generic - Intake Air Desired MAF Host.vi" Type="VI" URL="../Host/SubHosts/Control - Generic - Intake Air Desired MAF Host.vi"/>
 			<Item Name="Control - Generic - Intake Air Desired MAP Host.par" Type="Document" URL="../Host/SubHosts/Control - Generic - Intake Air Desired MAP Host.par"/>
@@ -41,8 +39,10 @@
 			<Item Name="Control - Generic - Lambda PID Host.vi" Type="VI" URL="../Host/SubHosts/Control - Generic - Lambda PID Host.vi"/>
 			<Item Name="Control - Generic - Load Command Host.par" Type="Document" URL="../Host/SubHosts/Control - Generic - Load Command Host.par"/>
 			<Item Name="Control - Generic - Load Command Host.vi" Type="VI" URL="../Host/SubHosts/Control - Generic - Load Command Host.vi"/>
-			<Item Name="Control - Generic - Low-Idle Governor Host.par" Type="Document" URL="../Host/SubHosts/Control - Generic - Low-Idle Governor Host.par"/>
-			<Item Name="Control - Generic - Low-Idle Governor Host.vi" Type="VI" URL="../Host/SubHosts/Control - Generic - Low-Idle Governor Host.vi"/>
+			<Item Name="Control - Generic - Max Speed Governor Host.par" Type="Document" URL="../Host/SubHosts/Control - Generic - Max Speed Governor Host.par"/>
+			<Item Name="Control - Generic - Max Speed Governor Host.vi" Type="VI" URL="../Host/SubHosts/Control - Generic - Max Speed Governor Host.vi"/>
+			<Item Name="Control - Generic - Min Speed Governor Host.par" Type="Document" URL="../Host/SubHosts/Control - Generic - Min Speed Governor Host.par"/>
+			<Item Name="Control - Generic - Min Speed Governor Host.vi" Type="VI" URL="../Host/SubHosts/Control - Generic - Min Speed Governor Host.vi"/>
 			<Item Name="Control - Generic - Next Cycle CA50 Host.par" Type="Document" URL="../Host/SubHosts/Control - Generic - Next Cycle CA50 Host.par"/>
 			<Item Name="Control - Generic - Next Cycle CA50 Host.vi" Type="VI" URL="../Host/SubHosts/Control - Generic - Next Cycle CA50 Host.vi"/>
 			<Item Name="Control - Generic - Port Injection Basic Host.par" Type="Document" URL="../Host/SubHosts/Control - Generic - Port Injection Basic Host.par"/>

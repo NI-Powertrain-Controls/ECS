@@ -3379,8 +3379,6 @@ InactivityTimeout 60
 			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Control - Load Command - High-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - High-Idle Governor.vi"/>
-			<Item Name="Control - Load Command - Low-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Low-Idle Governor.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="ECS RT App" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -8281,8 +8279,6 @@ InactivityTimeout 60
 			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Control - Load Command - High-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - High-Idle Governor.vi"/>
-			<Item Name="Control - Load Command - Low-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Low-Idle Governor.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="ECS RT App" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -10854,8 +10850,6 @@ DirectoryIndex index.htm
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Control - Load Command - High-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - High-Idle Governor.vi"/>
-			<Item Name="Control - Load Command - Low-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Low-Idle Governor.vi"/>
 			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -15586,8 +15580,6 @@ DirectoryIndex index.htm
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Control - Load Command - High-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - High-Idle Governor.vi"/>
-			<Item Name="Control - Load Command - Low-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Low-Idle Governor.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -20231,8 +20223,6 @@ AddOutputFilter chunkFilter
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Control - Load Command - High-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - High-Idle Governor.vi"/>
-			<Item Name="Control - Load Command - Low-Idle Governor.vi" Type="VI" URL="../RT/Control/Generic/Load Command/Control - Load Command - Low-Idle Governor.vi"/>
 			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
